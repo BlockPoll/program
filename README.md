@@ -1,3 +1,5 @@
+Code of this repository has been moved to https://github.com/RijulGulati/blockpoll
+
 # BlockPoll Solana on-chain program
 
 This repository contains source code of BlockPoll on-chain program (smart contract).
