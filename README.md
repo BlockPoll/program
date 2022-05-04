@@ -1,4 +1,6 @@
-Code of this repository has been moved to https://github.com/RijulGulati/blockpoll
+### Code has been moved to https://github.com/RijulGulati/blockpoll
+
+---
 
 # BlockPoll Solana on-chain program
 
